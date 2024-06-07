@@ -1,0 +1,1 @@
+fs.mkdirSync('my-docs2/a/b/c/d', { recursive: true });
